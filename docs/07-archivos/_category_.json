@@ -1,0 +1,9 @@
+{
+  "label": "7. Archivos e imágenes",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "slug": "/archivos",
+    "description": "Subir, validar y guardar fotos de pueblos en Cloud Storage."
+  }
+}

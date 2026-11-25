@@ -1,0 +1,9 @@
+{
+  "label": "3. Relaciones y transacciones",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "slug": "/relaciones",
+    "description": "Cómo se relacionan pueblos, viviendas, usuarios y municipios, y cómo escribir varias cosas de forma segura."
+  }
+}

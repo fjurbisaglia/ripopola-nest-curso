@@ -1,0 +1,9 @@
+{
+  "label": "8. Diseño y documentación de la API",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "slug": "/api",
+    "description": "REST bien hecho, versionado, OpenAPI y un cliente tipado para el frontend."
+  }
+}

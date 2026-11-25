@@ -1,0 +1,9 @@
+{
+  "label": "15. Arquitectura",
+  "position": 16,
+  "link": {
+    "type": "generated-index",
+    "slug": "/arquitectura",
+    "description": "Monolito modular, capas y DDD, CQRS, multi-tenancy, microservicios y GraphQL."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "11. Rendimiento y caché",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "slug": "/rendimiento",
+    "description": "Medir antes de optimizar, caché con Redis y cuellos de botella típicos."
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+.docusaurus/
+build/
+.cache-loader/
+.DS_Store
+.env
+.env.*
+!.env.example
+npm-debug.log*
+pnpm-debug.log*
+
+# Paquete temporal que usa Claude para copiar actualizaciones
+.repo.tgz
+.borrar

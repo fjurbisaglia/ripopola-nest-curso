@@ -1,0 +1,9 @@
+{
+  "label": "4. Datos geográficos con PostGIS",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "slug": "/postgis",
+    "description": "Coordenadas, GeoJSON y búsquedas por cercanía: lo que hace distinto a ripopola."
+  }
+}

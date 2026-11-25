@@ -1,0 +1,9 @@
+{
+  "label": "13. Tiempo real con WebSockets",
+  "position": 14,
+  "link": {
+    "type": "generated-index",
+    "slug": "/websockets",
+    "description": "Socket.IO en Nest: notificaciones al municipio y mensajes con las personas."
+  }
+}

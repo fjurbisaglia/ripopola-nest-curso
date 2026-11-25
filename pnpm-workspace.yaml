@@ -1,0 +1,3 @@
+# Scripts de instalación: core-js solo imprime un aviso, no hace falta.
+allowBuilds:
+  core-js: false

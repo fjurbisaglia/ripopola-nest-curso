@@ -1,0 +1,9 @@
+{
+  "label": "2. Base de datos con Prisma",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "slug": "/prisma",
+    "description": "PostgreSQL y Prisma desde cero: modelado, migraciones, CRUD, búsquedas, paginación, SQL crudo e índices."
+  }
+}

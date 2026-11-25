@@ -1,0 +1,121 @@
+.hero {
+  padding: 5rem 0 4rem;
+  text-align: center;
+  color: #fff;
+  background:
+    radial-gradient(circle at 20% 20%, rgba(255, 255, 255, 0.12), transparent 40%),
+    linear-gradient(135deg, #e0234e 0%, #a3123a 55%, #1d1d1d 100%);
+}
+
+.heroLogo {
+  display: inline-flex;
+  padding: 1rem;
+  border-radius: 20px;
+  background: #fff;
+  margin-bottom: 1.2rem;
+}
+
+.heroTitle {
+  font-size: clamp(2.2rem, 6vw, 3.6rem);
+  margin-bottom: 0.8rem;
+}
+
+.heroSubtitle {
+  font-size: 1.2rem;
+  max-width: 640px;
+  margin: 0 auto 2rem;
+  opacity: 0.95;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.section {
+  padding: 3.5rem 0;
+}
+
+.section h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.alt {
+  background: var(--ifm-color-emphasis-100);
+}
+
+.stack {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1rem;
+}
+
+.tech {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 1.2rem 0.6rem;
+  text-align: center;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 12px;
+  background: var(--ifm-background-surface-color);
+}
+
+.tech span {
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.how {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.how h3 {
+  margin-bottom: 0.4rem;
+}
+
+.sections {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem 1.2rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 12px;
+  color: inherit;
+  background: var(--ifm-background-surface-color);
+  transition: border-color 0.15s, transform 0.15s;
+}
+
+.card:hover {
+  color: inherit;
+  text-decoration: none;
+  border-color: var(--ifm-color-primary);
+  transform: translateY(-2px);
+}
+
+.card p {
+  margin: 0.2rem 0 0;
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.num {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 2.2rem;
+  height: 2.2rem;
+  border-radius: 50%;
+  font-weight: 800;
+  color: #fff;
+  background: var(--ifm-color-primary);
+}

@@ -1,0 +1,9 @@
+{
+  "label": "6. Autenticación y autorización",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "slug": "/auth",
+    "description": "Better Auth dentro de Nest: usuarios y sesiones en PostgreSQL, login con correo y Google, 2FA, guards, roles y permisos por municipio."
+  }
+}

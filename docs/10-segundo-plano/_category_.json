@@ -1,0 +1,9 @@
+{
+  "label": "10. Eventos y trabajos en segundo plano",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "slug": "/segundo-plano",
+    "description": "Eventos internos, tareas programadas y colas: el motor de las traducciones de ripopola."
+  }
+}

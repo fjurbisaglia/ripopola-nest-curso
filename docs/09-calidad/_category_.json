@@ -1,0 +1,9 @@
+{
+  "label": "9. Pruebas, observabilidad y seguridad",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "slug": "/calidad",
+    "description": "Lo que separa a un senior: pruebas en todos los niveles, logs y trazas, health checks y seguridad."
+  }
+}

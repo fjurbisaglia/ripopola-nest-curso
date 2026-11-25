@@ -1,0 +1,9 @@
+{
+  "label": "12. Full stack: Next.js y la API",
+  "position": 13,
+  "link": {
+    "type": "generated-index",
+    "slug": "/fullstack",
+    "description": "Conectar la web y el panel en Next.js con la API de Nest: Server Components, cookies de sesión, caché y revalidación, y contratos compartidos en Nx."
+  }
+}
