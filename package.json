@@ -2,6 +2,7 @@
   "name": "ripopola-nest-curso",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@12.21.0",
   "description": "Curso propio de NestJS y backend full stack construyendo ripopola.",
   "scripts": {
     "start": "docusaurus start",

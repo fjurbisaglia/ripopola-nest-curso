@@ -7,9 +7,13 @@ const config: Config = {
   tagline: 'Curso de NestJS y backend full stack construyendo un proyecto real',
   favicon: 'img/favicon.svg',
 
-  // Cambiar cuando se publique (por ejemplo en GitHub Pages)
-  url: 'https://example.com',
-  baseUrl: '/',
+  // Publicado en GitHub Pages: https://fjurbisaglia.github.io/ripopola-nest-curso/
+  url: 'https://fjurbisaglia.github.io',
+  baseUrl: '/ripopola-nest-curso/',
+  organizationName: 'fjurbisaglia',
+  projectName: 'ripopola-nest-curso',
+  // GitHub Pages: fijarlo explícitamente evita redirecciones y links rotos
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   markdown: {
